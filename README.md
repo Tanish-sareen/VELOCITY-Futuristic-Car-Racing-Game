@@ -2,7 +2,7 @@
 
 > A fast-paced browser racing game built with **HTML5 Canvas, CSS, and Vanilla JavaScript** featuring neon cyberpunk visuals, dynamic audio, combo scoring, boost mechanics, and progressive difficulty.
 
-
+live at -  https://tanish-sareen.github.io/VELOCITY-Futuristic-Car-Racing-Game/
 
 ---
 
@@ -151,8 +151,8 @@ Everything is contained within a single HTML file:
 
 ### Option 1: Open Directly
 
-Simply open:
-
+Simply open: 
+ https://tanish-sareen.github.io/VELOCITY-Futuristic-Car-Racing-Game/
 ```bash
 car-racing-game.html
 ```
